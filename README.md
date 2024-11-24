@@ -1,7 +1,7 @@
 The fMRI data should be downloaded from ConnectomeDB website.
 (https://db.humanconnectome.org/app/template/Login.vm)
 
-The directory tree should be constructed like the following diagram.
+For the functioanl connectivity analysis (the Colab File), the directory tree should be constructed like the following diagram in your google drive.
 
 MyDrive  
 &emsp;	├─GraduationStudy  
